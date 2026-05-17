@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi! I'm Yaroslav. 
+
+## About Me
+
+- 💹 My progress now: studying in Vladivostok, 8th grade school student, interested in AI and software, a beginner AI programmer-engineer.
+- ❗ Objective: to get into the best STEM universities for the best education.
+- 💻 Working on: basic programs in C# and Python. Working on basic AI
 
 <!--
 **Yar-Ber/Yar-Ber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
